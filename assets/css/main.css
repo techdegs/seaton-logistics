@@ -39508,7 +39508,7 @@ a.social-btn:hover {
 }
 .mobile-menu,
 .offcanvas-category-menu {
-  max-width: 300px;
+  max-width: 500px;
   height: 100vh;
   z-index: 10;
   top: 0;
