@@ -41,6 +41,7 @@
       $(this).toggleClass("icon-rotate");
     });
   });
+  
   $(document).on("mouseup", function (e) {
     var offCanvusMenu = $(".mobile-menu");
 

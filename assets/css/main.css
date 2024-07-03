@@ -36524,7 +36524,7 @@ fieldset:disabled .btn {
   padding-bottom: 115px;
 }
 .pb-120 {
-  padding-bottom: 240px;
+  padding-bottom: 140px;
 }
 @media (max-width: 767.98px) {
   .pb-120 {
@@ -40938,6 +40938,7 @@ a.social-btn:hover {
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
+  padding-top: 100px
 }
 .dl-hero-single {
   position: relative;
@@ -41698,9 +41699,7 @@ a.social-btn:hover {
     right: auto;
   }
 }
-.merge-section {
-  padding-top: 150px;
-}
+
 @media (max-width: 1199.98px) {
   .merge-section {
     padding-top: 0;
